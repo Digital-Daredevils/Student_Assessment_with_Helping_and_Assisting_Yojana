@@ -9,27 +9,27 @@ The "SAHAAY" project, initiated under the Ministry of Education, is a pioneering
 
 <u><b>KEY MODULES</u></b>: 
 
-1.<u>Assessment Module</u>: 
+1.<u>Assessment Module</u>: <br>
 This module employs a multifaceted approach, combining faculty observation, scholastic tests, and in-app assessments to comprehensively evaluate students' performance. 
 
-2.<u>Identification Module</u>: 
+2.<u>Identification Module</u>: <br>
 Through the implementation of a Random Forest algorithm, students are categorized as slow learners, medium-paced learners, or quick learners, enabling the customization of learning paths. 
 
-3.<u>Help and Assistance Module</u>: 
+3.<u>Help and Assistance Module</u>: <br>
 The Help and Assistance Module plays a pivotal role in providing a personalized learning experience. It incorporates innovative learning components, including gamified learning, video-based learning, mood tracking, and micro-learning modules. 
 
-4.<u>Gap and Progress Analysis Module</u>: 
+4.<u>Gap and Progress Analysis Module</u>: <br>
 By conducting a skill gap analysis using the K-Means Clustering algorithm, the project identifies and addresses knowledge and skill gaps among students, ensuring that learning paths are relevant and effective. 
 
 <u><b>ALGORITHMS</b></u>: 
 
-<u>Random Forest Algorithm</u>: 
+<u>Random Forest Algorithm</u>: <br>
 Used for ranking and grouping students in the Identification Module, ensuring transparency, robustness, and accuracy in categorizing students as slow, medium, or quick learners. 
 
-<u>K-Means Clustering Algorithm</u>: 
+<u>K-Means Clustering Algorithm</u>: <br>
 Applied in the Gap and Progress Analysis Module for identifying skill gaps among students, leading to the creation of relevant learning paths. 
 
-<u>Hybrid Recommender System</u>: 
+<u>Hybrid Recommender System</u>: <br>
 Suggested for creating custom learning paths, combining content-based and collaborative filtering methods, taking into account content preferences, past interactions, assessment results, and mood data. 
 
 The Help and Assistance Module is a cornerstone of the "SAHAAY" project. It offers a personalized learning experience through innovative learning components. These components include gamified learning, video-based learning, pictorial-based learning, relaxation periods, mood tracking, and micro-learning modules. 
